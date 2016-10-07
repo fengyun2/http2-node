@@ -1,0 +1,19 @@
+{
+  "name": "http2-node-demo",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http2",
+    "node"
+  ],
+  "author": "Ly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "spdy": "^3.4.3"
+  }
+}
